@@ -2,8 +2,8 @@ name: Build TShock
 
 on:
   push:
-    tags:
-      - tshock-*
+    #tags:
+    #  - tshock-*
 
 jobs:
   build-tshock:
