@@ -2,8 +2,8 @@ name: Build Vanilla
 
 on:
   push:
-    tags:
-      - vanilla-*
+    #tags:
+    #  - vanilla-*
 
 jobs:
   build-vanilla:
