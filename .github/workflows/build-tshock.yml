@@ -19,7 +19,7 @@ jobs:
           name: didstopia/terraria
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          dockerfile: tshock/Dockerfile
+          dockerfile: Dockerfile
           workdir: tshock
           tags: "tshock-latest"
           tag_names: true
