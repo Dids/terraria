@@ -20,5 +20,6 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           dockerfile: tshock/Dockerfile
+          workdir: tshock
           tags: "tshock-latest"
           tag_names: true

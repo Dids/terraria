@@ -20,5 +20,6 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           dockerfile: vanilla/Dockerfile
+          workdir: vanilla
           tags: "vanilla-latest"
           tag_names: true
