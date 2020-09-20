@@ -1,4 +1,4 @@
-**NOTE:** _This is a fork of the original and may not be what you want!
+**NOTE:** _This is a fork of the original and may not be what you want!_
 
 # Terraria [![microbadger](https://images.microbadger.com/badges/image/didstopia/terraria.svg)](https://microbadger.com/images/didstopia/terraria "Get your own image badge on microbadger.com")
 
