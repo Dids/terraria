@@ -18,7 +18,7 @@ RUN unzip $TSHOCKZIP -d /tshock && \
     chmod +x /tshock/bootstrap.sh
 
 #FROM mono:6.8.0.96-slim
-FROM mono:6.8.0.123
+FROM mono:6.8.0.96
 
 LABEL maintainer="Ryan Sheehan <rsheehan@gmail.com>"
 
